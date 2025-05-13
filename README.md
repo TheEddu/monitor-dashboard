@@ -104,7 +104,7 @@ monitor-dashboard/
 ![Monitoramento de Sistema](image/sistema.png)
 
 ### Plano de fundo da Home
-![Imagem da lexica.art](https://lexica.art/prompt/fc0f1269-174b-4eed-aa3a-df42d48abc52)
+Imagem da lexica.art: https://lexica.art/prompt/fc0f1269-174b-4eed-aa3a-df42d48abc52
 
 ---
 
