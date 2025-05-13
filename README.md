@@ -43,7 +43,7 @@ monitor-dashboard/
 │   ├── header.php              # Cabeçalho do site
 │   └── footer.php              # Rodapé do site
 ├── image/                      # Pasta de imagens
-│   └── background.webp         # Imagem de fundo da página inicial (fonte: lexica.art)
+│   └── background.webp         # Imagem de fundo da página inicial
 ```
 
 ## Requisitos
@@ -102,6 +102,9 @@ monitor-dashboard/
 
 ### Monitoramento de Sistema
 ![Monitoramento de Sistema](image/sistema.png)
+
+### Plano de fundo da Home
+![Imagem da lexica.art](https://lexica.art/prompt/fc0f1269-174b-4eed-aa3a-df42d48abc52)
 
 ---
 
